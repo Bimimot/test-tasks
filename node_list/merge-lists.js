@@ -27,7 +27,7 @@ var mergeTwoLists = function (l1, l2) {
   }
 };
 
-//test with log
+//---------test with log------------
 //   let c = new ListNode(35, 45);
 //   let b = new ListNode(25, c);
 //   let a1 = new ListNode(15, b);
