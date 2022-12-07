@@ -17,7 +17,7 @@ const makeList = (arr) => {
   return res;
 };
 
-console.log(makeList([1, 2, 3]));
+//console.log(makeList([1, 2, 3]));
 
 // {
 //     value: 1,
